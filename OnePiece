@@ -1,0 +1,17 @@
+print('Hello! And welcome to my One Piece code simulator.\n')
+
+print('I really hope you like it!\n')
+
+print('So please share this as I will make more in the future.\n')
+
+
+character = input('Who do you stan?\n')
+print('\nOkay so you like ' + character)
+charactertwo = input('\nWhich character you despise?\n')
+print('\nI see. Well imagine this:\n')
+
+print(character + ' will one shot Kaido and become King of the Pirates!\n')
+print('You hate to see it but ' + charactertwo +' will probably never reach that point.\n')
+print('That is all. Thanks.\n')
+
+print('@MarcoDPhoenixxx')
